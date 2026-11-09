@@ -45,14 +45,14 @@ Berikut adalah rancangan struktur tabel utama di dalam database:
 ## 📸 Dokumentasi Tampilan (Screenshot)
 *(Letakkan atau sisipkan tangkapan layar aplikasi di sini sesuai instruksi tugas)*
 ### **1. Halaman Login**
-![Halaman Login](uploads/Halaman Login.png)
+![HalamanLogin](uploads/HalamanLogin.png)
 
 ### **2. Halaman Dashboard CRUD**
 ![Dashboard](uploads/Dashboard.png)
 
 ### **3. Halaman Tambah & Edit Buku**
-![Tambah Buku](uploads/Tambahkan Buku.png)
-![Edit Buku](uploads/Tampilan Edit.png)
+![TambahBuku](uploads/TambahkanBuku.png)
+![EditBuku](uploads/TampilanEdit.png)
 
 ---
 
